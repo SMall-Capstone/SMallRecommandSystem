@@ -1,0 +1,13 @@
+
+	처음 깃 push 할 시
+git init
+git remote add (origin) url  ->  공동 저장소랑 연결
+git add .     ->   track 리스트에 추가
+git commit -m "message"   ->   
+git push (origin) (master)   ->  올림
+
+
+	앞으로 올릴 시
+git add .
+git commit -m "message"
+git push origin master
